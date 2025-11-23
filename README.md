@@ -2,9 +2,9 @@
 
 > **AI-Powered Symptom Analysis & Medicinal Plant Identification**
 
-![MedTech AI Banner]((https://github.com/Adarsh-codesOP/Medtech/blob/main/frontend/public/banner.png))
 
-<div align="center">
+<div align="center"><img width="442" height="139" alt="Gemini_Generated_Image_3p0rjt3p0rjt3p0r" src="https://github.com/user-attachments/assets/44b73edf-ee6b-4c76-90ec-4dae206e159d" />
+
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
