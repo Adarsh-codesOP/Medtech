@@ -2,7 +2,7 @@
 
 > **AI-Powered Symptom Analysis & Medicinal Plant Identification**
 
-![MedTech AI Banner](frontend\public\banner.png)
+![MedTech AI Banner]((https://github.com/Adarsh-codesOP/Medtech/blob/main/frontend/public/banner.png))
 
 <div align="center">
 
