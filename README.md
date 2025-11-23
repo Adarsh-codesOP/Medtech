@@ -2,7 +2,7 @@
 
 > **AI-Powered Symptom Analysis & Medicinal Plant Identification**
 
-![MedTech AI Banner]([https://ibb.co/qMT8DzWQ](https://icolrzcvaykvzfxqvmxu.supabase.co/storage/v1/object/public/don/Gemini_Generated_Image_3p0rjt3p0rjt3p0r.png))
+![MedTech AI Banner](frontend\public\banner.png)
 
 <div align="center">
 
