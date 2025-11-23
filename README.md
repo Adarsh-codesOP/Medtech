@@ -2,7 +2,7 @@
 
 > **AI-Powered Symptom Analysis & Medicinal Plant Identification**
 
-![MedTech AI Banner](https://via.placeholder.com/1200x400/10b981/ffffff?text=MedTech+AI+Health+Assistant)
+![MedTech AI Banner](https://ibb.co/qMT8DzWQ)
 
 <div align="center">
 
